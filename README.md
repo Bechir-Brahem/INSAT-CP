@@ -28,7 +28,7 @@ for this project we used the following technologies:
 
 https://insatcp.herokuapp.com/
 
-[![demo](https://img.youtube.com/vi/GyyuGTspuYE/0.jpg)](https://www.youtube.com/watch?v=GyyuGTspuYE)
+[![demo](embed.png)](https://www.youtube.com/watch?v=GyyuGTspuYE)
 
 
 
