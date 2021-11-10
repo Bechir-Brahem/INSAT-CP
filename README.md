@@ -1,5 +1,4 @@
 # INSAT-CP
-[toc]
 
 ## Contributors:
 
@@ -11,6 +10,10 @@
 ## Introduction:
 
 This is a competitive programming website made to organize contests, and solve algorithmic problems and learn about algorithmic optimization techniques
+
+This web app accepts code submissions from signed up users. compiles them and then run the code with the input of the given problem and compares the output
+of the run to the correct solution.
+It also contains tutorials on the fundamental algorithmic topics
 
 ## Implementation:
 
